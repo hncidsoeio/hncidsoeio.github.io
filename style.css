@@ -1,0 +1,45 @@
+body{
+    font-family:Georgia;
+}
+h1 {
+font-family: Arial;
+text-align: center;
+font-size: 60px;
+color: white;
+background-color: turquoise;
+border-radius: 20px;
+}
+ol{
+    font-size: 20px;
+   border-radius: 20px;
+    border-style: solid;
+    width :250px;
+    border-width: 2px;
+    border-color: violet;
+}
+
+ul{
+    list-style-type: disc;
+}
+
+h2{
+    font-size: 30px;
+    color:darkblue;
+}
+h3{
+    color: blue;
+}
+
+.image_de_chat {
+    width: auto;
+    height: 200px;
+    border-radius: 20px;
+}
+
+.text {
+    border: solid;
+    border-width: 2px;
+    border-color:blue;
+    border-radius: 20px;
+    padding: 5px;
+}
